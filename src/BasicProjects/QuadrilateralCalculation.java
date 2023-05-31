@@ -1,4 +1,4 @@
-package Input;
+package BasicProjects;
 
 public class QuadrilateralCalculation {
     public static void main(String[] args) {

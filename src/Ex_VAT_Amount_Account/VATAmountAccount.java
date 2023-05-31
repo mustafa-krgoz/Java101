@@ -1,4 +1,4 @@
-package BasicProjects;
+package Ex_VAT_Amount_Account;
 
 import java.util.Scanner;
 

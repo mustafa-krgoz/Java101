@@ -1,4 +1,4 @@
-package BasicProjects;
+package Ex_NoteAverage;
 import java.util.Scanner;
 
 public class NoteAverage {
